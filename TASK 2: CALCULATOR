@@ -1,6 +1,6 @@
 header = "CALCULATOR"
 
-print(header.center(90))
+print(header.center(100))
 
 try:
     num1 = float(input("enter the 1st number: "))
